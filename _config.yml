@@ -14,7 +14,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "Congreso de Innovación Educativa 2018"
 email: "innovaeducar@aragon.es"
 description: "Congreso de educción educativa. Departamento de Educación del Gobierno de Aragón"
-baseurl: ""
+baseurl: "/"
 url: "https://congresoinnovacioneducativa.es"
 # permalink: "/blog/:title"
 #googleAnalyticsTrackingId: "UA-43643469-5"
