@@ -21,6 +21,7 @@ url: "https://congresoinnovacioneducativa.es"
 #googleAnalyticsSiteUrl: "gdg-x.github.io"
 #siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 logo: "img/logocongreso.png"
+googleMapApiKey: AIzaSyBuT434HQRsA-h3cpHSxYNskHKGblpjFf0
 
 # Organizer Info
 organizerName: "Departamento de Educación del Gobierno de Aragón"
@@ -62,7 +63,7 @@ eventDate: "21 y 22 de Septiembre, 2018"
 typeoutTextValues: '"", "Zaragoza ", "Aragón ", "para el mundo "'
 typeoutFallback: "Zaragoza"
 heroButtons:
- - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "mailto:innovaeducar@aragon.es", text: "Colabora"}
 # - {permalink: "/#tickets", text: "Reserva tu entrada"}
 
 # About Block
