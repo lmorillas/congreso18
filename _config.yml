@@ -103,9 +103,9 @@ eventAddressCountry: "España"
 eventStartTime: "2018-09-21T10:00"
 eventDoorTime: "09:00"
 eventEndTime: "2018-09-22T20:00"
-eventPlaceCoordinates: "41.6688017,-0.9767279"
-mapCenterCoordinates: "41.6688017,-0.9767279"
-mapMobileCenterCoordinates: "41.6688017,-0.9767279"
+eventPlaceCoordinates: "41.6688231, -0.9066879"
+mapCenterCoordinates: "41.6688231, -0.9066879"
+mapMobileCenterCoordinates: "41.6688231, -0.9066879"
 
 # Venue Block
 venueBlockTitle: "Venue"
