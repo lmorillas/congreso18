@@ -59,17 +59,17 @@ rightNavigationButtons:
 heroImage: "hero.jpg"
 heroTitle: "Congreso Internacional de Innovación Educativa <typeout> 2018"
 eventDate: "21 y 22 de Septiembre, 2018"
-typeoutTextValues: '"", "Zaragoza", "España"'
+typeoutTextValues: '"", "Zaragoza ", "Aragón ", "para el mundo "'
 typeoutFallback: "Zaragoza"
 heroButtons:
  - {link: "https://bit.ly/dfua-c4p", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Reserva tu entrada"}
+# - {permalink: "/#tickets", text: "Reserva tu entrada"}
 
 # About Block
 aboutTitle: "Mucho más que un congreso"
 aboutDetails: ""
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
+ - {title: "Conference", image: "conference.jpg", text: "" }
  - {title: "Workshops", image: "workshop.jpg", text: "Talleres, conferencias, exhibiciones ..." }
 # - {title: "Hackathon", image: "hackathon.jpg", text: "Full-day freestyle hackathon! Want some real team building on friday? Grab your team and join our hackathon!" }
 
